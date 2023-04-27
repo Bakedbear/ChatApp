@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="title_activity_messages">MessagesActivity</string>
+    <string name="api_key">ssym5d3sck6r</string>
+    <string name="welcome">Welcome to <big>Chat App.</big>  Sign in to Get Started</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiYmFrZWRiZWFyIn0.w8CG2dRohnDCr22nmnjG6zuAkNCNeo-R44-MjGShDH4</string>
+</resources>
