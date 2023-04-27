@@ -15,13 +15,14 @@ This project is an example of a chat app built using Stream SDK for Android. It 
 
 The app also includes a number of user interface elements, such as channels, groups, and a navigation drawer, to provide a seamless and intuitive user experience.
 
-![Login screenshot](https://user-images.githubusercontent.com/47042815/234792760-87cf3d16-1ce1-4551-99f3-9f5739e90948.jpg?raw=true "Screenshot for login screen")
 
-![Screenshot](https://user-images.githubusercontent.com/47042815/234787126-f2004bd8-bb05-45db-9119-6c3f45c48f9a.jpg?raw=true "Chat App channel list")
+## Screenshots
 
-![Chat screenshot](https://user-images.githubusercontent.com/47042815/234787394-83ffef8f-ad20-48ff-a89b-d1a9530d0454.jpg?raw=true " Group Message screenshot ")
+<img src="https://user-images.githubusercontent.com/47042815/234792760-87cf3d16-1ce1-4551-99f3-9f5739e90948.jpg" width="450" height="830" /> <img src="https://user-images.githubusercontent.com/47042815/234787126-f2004bd8-bb05-45db-9119-6c3f45c48f9a.jpg" width="450" height="830" />
 
-![Reaction screenshot](https://user-images.githubusercontent.com/47042815/234787713-450aeab9-16c9-4009-8b15-9728a765b609.jpg?raw=true "Message Reaction screenshot")
+
+<img src="https://user-images.githubusercontent.com/47042815/234787394-83ffef8f-ad20-48ff-a89b-d1a9530d0454.jpg" width="450" height="830" /> <img src="https://user-images.githubusercontent.com/47042815/234787713-450aeab9-16c9-4009-8b15-9728a765b609.jpg" width="450" height="830" />
+
 
 
  
